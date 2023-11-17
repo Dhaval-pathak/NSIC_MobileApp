@@ -1,0 +1,21 @@
+com.example.nsic.app-jetified-window-java-1.0.0-beta04-0 C:\Users\dhava\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.nsic.app-core-1.6.0-1 C:\Users\dhava\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+com.example.nsic.app-coordinatorlayout-1.0.0-2 C:\Users\dhava\.gradle\caches\transforms-3\658c795313ef4882e96b91cbdc33f336\transformed\coordinatorlayout-1.0.0\res
+com.example.nsic.app-jetified-annotation-experimental-1.1.0-3 C:\Users\dhava\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.nsic.app-jetified-window-1.0.0-beta04-4 C:\Users\dhava\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+com.example.nsic.app-media-1.0.0-5 C:\Users\dhava\.gradle\caches\transforms-3\f057e7418cf3ed9a7aa575bdc69ad668\transformed\media-1.0.0\res
+com.example.nsic.app-debug-6 D:\PS2\Github clones\nsic_spr\android\app\src\debug\res
+com.example.nsic.app-main-7 D:\PS2\Github clones\nsic_spr\android\app\src\main\res
+com.example.nsic.app-pngs-8 D:\PS2\Github clones\nsic_spr\build\app\generated\res\pngs\debug
+com.example.nsic.app-resValues-9 D:\PS2\Github clones\nsic_spr\build\app\generated\res\resValues\debug
+com.example.nsic.app-rs-10 D:\PS2\Github clones\nsic_spr\build\app\generated\res\rs\debug
+com.example.nsic.app-mergeDebugResources-11 D:\PS2\Github clones\nsic_spr\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.nsic.app-mergeDebugResources-12 D:\PS2\Github clones\nsic_spr\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.nsic.app-merged_res-13 D:\PS2\Github clones\nsic_spr\build\app\intermediates\merged_res\debug
+com.example.nsic.app-packaged_res-14 D:\PS2\Github clones\nsic_spr\build\connectivity_plus\intermediates\packaged_res\debug
+com.example.nsic.app-packaged_res-15 D:\PS2\Github clones\nsic_spr\build\file_picker\intermediates\packaged_res\debug
+com.example.nsic.app-packaged_res-16 D:\PS2\Github clones\nsic_spr\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.nsic.app-packaged_res-17 D:\PS2\Github clones\nsic_spr\build\open_file_plus\intermediates\packaged_res\debug
+com.example.nsic.app-packaged_res-18 D:\PS2\Github clones\nsic_spr\build\permission_handler_android\intermediates\packaged_res\debug
+com.example.nsic.app-packaged_res-19 D:\PS2\Github clones\nsic_spr\build\shared_preferences_android\intermediates\packaged_res\debug
+com.example.nsic.app-packaged_res-20 D:\PS2\Github clones\nsic_spr\build\url_launcher_android\intermediates\packaged_res\debug
